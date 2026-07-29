@@ -1,6 +1,6 @@
 ### Hola, soy Juan Sebastian Cabrera 👋
 
-\`\`\`
+```
 C:\USERS\JSCABRERA> WHOAMI.EXE
 
 ╔══════════════════════════════════════════════════╗
@@ -31,7 +31,7 @@ Construyendo agentes que piensan, deciden y actúan...
 [##########################################] 100%
 
 C:\USERS\JSCABRERA>_
-\`\`\`
+```
 
 ---
 
@@ -42,6 +42,7 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ### 🛠️ Tech Stack
 
 **AI & Automatización**
+
 ![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -49,6 +50,7 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Frontend**
+
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -56,6 +58,7 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Data**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -64,6 +67,7 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -84,7 +88,7 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ### 💼 Experiencia
 
 **Profesor de IA & LLMs** — Superprof — 2026
-Docencia particular en ChatGPT, Claude, Cursor, Gemini y N8N AI Workflows, con alumnos y emprendedores.
+Docencia particular en ChatGPT, Claude, Cursor, Gemini y N8N AI Workflows, con alumnos y dueños de empresas
 
 **AI Architect & Tech Developer** @ Uncut Network — 2023-2025
 Agentes AI autónomos, servidores MCP, automatización N8N + AI, plataformas NFT (Web3)
