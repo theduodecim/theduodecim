@@ -23,7 +23,7 @@ MEMORIA LIBRE....: 640K ought to be enough
 C:\SKILLS> DIR /S
 
   AI_AGENTS.SYS         LANGCHAIN.DLL        MCP_SERVER.EXE
-  FULLSTACK.COM         WEB3.BIN             N8N_AI.BAT
+  FULLSTACK.COM         WEB3.BIN             N8N_AI.JSON
 
 C:\STATUS> RUN.BAT
 
@@ -66,12 +66,16 @@ Diseño e implementación de **agentes AI autónomos** y **sistemas multi-agente
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Cloud & DevOps**
+## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Kasm](https://img.shields.io/badge/-Kasm-6C63FF?style=flat-square&logo=firefox-browser&logoColor=white)
+![CasaOS](https://img.shields.io/badge/-CasaOS-4F46E5?style=flat-square&logo=linux&logoColor=white)
+![Webmin](https://img.shields.io/badge/-Webmin-7DA0D0?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
